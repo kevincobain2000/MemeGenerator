@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2013-06-09 09:41:34
+<?php /* Smarty version 2.6.26, created on 2013-06-09 10:10:41
          compiled from index.tpl */ ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
@@ -40,14 +40,31 @@
         <script type="text/javascript" src="scripts/jquery.touchSwipe.js"></script>
         <script type="text/javascript" src="scripts/demo.js"></script>
         <script type="text/javascript" src="scripts/holder.js"></script>
+        
+        <script type="text/javascript" src="scripts/document.js"></script>
             
             
     </head>
-<body>
-
-    <form action="some"><input type="text" name="some" value="" />
-        
-    </form>
-
-</body>
+    <body>
+        <h2>Meme Generator</h2>
+        <div class="span5">
+            <form action="">
+                <p>
+                    <input type="text" name="image_search" value="" placeholder="Image to Search .."/>
+                </p>
+                    
+                <p>
+                    <input type="text" name="meme_top" value="" placeholder="MEME TOP TEXT"/>
+                </p>
+                <input type="text" name="meme_botton" value="" placeholder="MEME BOTTOM TEXT"/>
+                <p>
+                    <button class="btn" type="submit">
+                        <i class="icon-image"></i> Submit
+                    </button>
+                </p>
+            </form>
+        </div>
+            
+            
+    </body>
 </html>
