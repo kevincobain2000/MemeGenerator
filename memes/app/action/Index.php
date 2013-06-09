@@ -130,7 +130,7 @@ class Memes_Action_Index extends Memes_ActionClass {
             $bbox = imageftbbox($top_font, 0, $font, $text1);
         }
         $x = (500 - $bbox[4]) / 2;
-
+        exit(var_dump($bbox));
         $this->imagettftextoutline($im, $top_font, 0, $x, ($top_font + 15), $white, $font, $text1, 2, $black);
 
         $bottom_font = 45;
