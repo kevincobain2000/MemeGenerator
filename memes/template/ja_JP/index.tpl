@@ -54,7 +54,7 @@
         </ul>
         {/if}
         <div class="span5">
-            <form action="">
+            <form action="" method="post">
                 <input class="span9" type="text" name="image_search" value="" placeholder="Image Url"/>
                     
                     

@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2013-06-09 14:08:53
+<?php /* Smarty version 2.6.26, created on 2013-06-09 14:29:31
          compiled from index.tpl */ ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
@@ -59,7 +59,7 @@
         </ul>
         <?php endif; ?>
         <div class="span5">
-            <form action="">
+            <form action="" method="post">
                 <input class="span9" type="text" name="image_search" value="" placeholder="Image Url"/>
                     
                     
