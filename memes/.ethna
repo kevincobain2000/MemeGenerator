@@ -1,0 +1,4 @@
+[project]
+ethna_version = 2.5.0
+controller_file = "app/Memes_Controller.php"
+controller_class = "Memes_Controller"
