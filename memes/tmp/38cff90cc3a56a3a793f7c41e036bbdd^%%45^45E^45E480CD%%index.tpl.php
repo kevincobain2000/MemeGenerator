@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2013-06-09 10:10:41
+<?php /* Smarty version 2.6.26, created on 2013-06-09 14:08:53
          compiled from index.tpl */ ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
@@ -46,20 +46,29 @@
             
     </head>
     <body>
-        <h2>Meme Generator</h2>
+        <h3>Meme Generator</h3>
+            
+        <?php if (count ( $this->_tpl_vars['errors'] )): ?>
+        <ul>
+            <?php $_from = $this->_tpl_vars['errors']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }if (count($_from)):
+    foreach ($_from as $this->_tpl_vars['error']):
+?>
+            <li><?php echo $this->_tpl_vars['error']; ?>
+</li>
+            <?php endforeach; endif; unset($_from); ?>
+        </ul>
+        <?php endif; ?>
         <div class="span5">
             <form action="">
-                <p>
-                    <input type="text" name="image_search" value="" placeholder="Image to Search .."/>
-                </p>
+                <input class="span9" type="text" name="image_search" value="" placeholder="Image Url"/>
                     
-                <p>
-                    <input type="text" name="meme_top" value="" placeholder="MEME TOP TEXT"/>
-                </p>
-                <input type="text" name="meme_botton" value="" placeholder="MEME BOTTOM TEXT"/>
-                <p>
-                    <button class="btn" type="submit">
-                        <i class="icon-image"></i> Submit
+                    
+                <input class="span9" type="text" name="meme_top" value="" placeholder="MEME TOP TEXT"/>
+                    
+                <input class="span9" type="text" name="meme_bottom" value="" placeholder="MEME BOTTOM TEXT"/>
+                    
+                <button type="submit">
+                    <i class="icon-image"></i> Submit
                     </button>
                 </p>
             </form>

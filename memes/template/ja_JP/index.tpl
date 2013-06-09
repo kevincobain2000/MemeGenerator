@@ -44,20 +44,26 @@
             
     </head>
     <body>
-        <h2>Meme Generator</h2>
+        <h3>Meme Generator</h3>
+            
+        {if count($errors)}
+        <ul>
+            {foreach from=$errors item=error}
+            <li>{$error}</li>
+            {/foreach}
+        </ul>
+        {/if}
         <div class="span5">
             <form action="">
-                <p>
-                    <input type="text" name="image_search" value="" placeholder="Image to Search .."/>
-                </p>
+                <input class="span9" type="text" name="image_search" value="" placeholder="Image Url"/>
                     
-                <p>
-                    <input type="text" name="meme_top" value="" placeholder="MEME TOP TEXT"/>
-                </p>
-                <input type="text" name="meme_botton" value="" placeholder="MEME BOTTOM TEXT"/>
-                <p>
-                    <button class="btn" type="submit">
-                        <i class="icon-image"></i> Submit
+                    
+                <input class="span9" type="text" name="meme_top" value="" placeholder="MEME TOP TEXT"/>
+                    
+                <input class="span9" type="text" name="meme_bottom" value="" placeholder="MEME BOTTOM TEXT"/>
+                    
+                <button type="submit">
+                    <i class="icon-image"></i> Submit
                     </button>
                 </p>
             </form>
