@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.26, created on 2013-06-09 14:29:31
+<?php /* Smarty version 2.6.26, created on 2013-06-16 08:18:29
          compiled from index.tpl */ ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
@@ -46,33 +46,33 @@
             
     </head>
     <body>
-        <h3>Meme Generator</h3>
-            
-        <?php if (count ( $this->_tpl_vars['errors'] )): ?>
-        <ul>
-            <?php $_from = $this->_tpl_vars['errors']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }if (count($_from)):
-    foreach ($_from as $this->_tpl_vars['error']):
-?>
-            <li><?php echo $this->_tpl_vars['error']; ?>
-</li>
-            <?php endforeach; endif; unset($_from); ?>
-        </ul>
-        <?php endif; ?>
-        <div class="span5">
-            <form action="" method="post">
-                <input class="span9" type="text" name="image_search" value="" placeholder="Image Url"/>
-                    
-                    
-                <input class="span9" type="text" name="meme_top" value="" placeholder="MEME TOP TEXT"/>
-                    
-                <input class="span9" type="text" name="meme_bottom" value="" placeholder="MEME BOTTOM TEXT"/>
-                    
-                <button type="submit">
-                    <i class="icon-image"></i> Submit
+        <div id="" class="container hero-unit">
+            <div id="" class="row span3">
+                <h2>Meme Generator</h2>
+            </div>
+                <div class="row span6" align="center">
+
+                    <form action="" method="POST">
+
+                    <input class="span6" type="text" id="image_search" placeholder="Image Url"/>
+                    <div id="" class="clearfix"></div>
+                    <input class="span6" type="text" id="meme_top" placeholder="MEME TOP TEXT"/>
+                    <div id="" class="clearfix"></div>
+                    <input class="span6" type="text" id="meme_bottom" placeholder="MEME BOTTOM TEXT"/>
+                    <div id="" class="clearfix"></div>
+                    <button class="btn btn-block" type="submit" id="submitMeme">
+                        <i class="icon-checkbox"></i> 
+                        Submit
                     </button>
-                </p>
-            </form>
-        </div>
+                    </form>
+                </div>
+
+            <div id="" class="row span12" align="center">
+                <img id="meme" src="" class="img-polaroid">
+            </div>
+            
+        </div>    
+            
             
             
     </body>

@@ -44,30 +44,33 @@
             
     </head>
     <body>
-        <h3>Meme Generator</h3>
-            
-        {if count($errors)}
-        <ul>
-            {foreach from=$errors item=error}
-            <li>{$error}</li>
-            {/foreach}
-        </ul>
-        {/if}
-        <div class="span5">
-            <form action="" method="post">
-                <input class="span9" type="text" name="image_search" value="" placeholder="Image Url"/>
-                    
-                    
-                <input class="span9" type="text" name="meme_top" value="" placeholder="MEME TOP TEXT"/>
-                    
-                <input class="span9" type="text" name="meme_bottom" value="" placeholder="MEME BOTTOM TEXT"/>
-                    
-                <button type="submit">
-                    <i class="icon-image"></i> Submit
+        <div id="" class="container hero-unit">
+            <div id="" class="row span3">
+                <h2>Meme Generator</h2>
+            </div>
+                <div class="row span6" align="center">
+
+                    <form action="" method="POST">
+
+                    <input class="span6" type="text" id="image_search" placeholder="Image Url"/>
+                    <div id="" class="clearfix"></div>
+                    <input class="span6" type="text" id="meme_top" placeholder="MEME TOP TEXT"/>
+                    <div id="" class="clearfix"></div>
+                    <input class="span6" type="text" id="meme_bottom" placeholder="MEME BOTTOM TEXT"/>
+                    <div id="" class="clearfix"></div>
+                    <button class="btn btn-block" type="submit" id="submitMeme">
+                        <i class="icon-checkbox"></i> 
+                        Submit
                     </button>
-                </p>
-            </form>
-        </div>
+                    </form>
+                </div>
+
+            <div id="" class="row span12" align="center">
+                <img id="meme" src="" class="img-polaroid">
+            </div>
+            
+        </div>    
+            
             
             
     </body>

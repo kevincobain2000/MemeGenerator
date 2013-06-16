@@ -59,7 +59,6 @@ class Memes_Action_Index extends Memes_ActionClass {
         if ($this->af->validate() > 0) {
             return 'index';
         }
-
         return null;
     }
 
@@ -94,9 +93,13 @@ class Memes_Action_Index extends Memes_ActionClass {
     function perform() {
 
        
+        $logger = $this->backend->getLogger();
+
         
         $font = "content/font/IMPACT.TTF"; //PATH_TO_FONT;
         $file = $this->af->get('image_search');
+        
+        
 
         $extension = strtolower(strrchr($file, '.'));
         switch ($extension) {
@@ -114,8 +117,9 @@ class Memes_Action_Index extends Memes_ActionClass {
                 $im = false;
                 break;
         }
-
         
+        
+
         $black = imagecolorallocate($im, 0x00, 0x00, 0x00);
         $white = imagecolorallocate($im, 0xFF, 0xFF, 0xFF);
         $text1 = strtoupper($this->af->get('meme_top'));
@@ -130,7 +134,7 @@ class Memes_Action_Index extends Memes_ActionClass {
             $bbox = imageftbbox($top_font, 0, $font, $text1);
         }
         $x = (500 - $bbox[4]) / 2;
-        exit(var_dump($bbox));
+
         $this->imagettftextoutline($im, $top_font, 0, $x, ($top_font + 15), $white, $font, $text1, 2, $black);
 
         $bottom_font = 45;
@@ -144,11 +148,18 @@ class Memes_Action_Index extends Memes_ActionClass {
         $this->imagettftextoutline($im, $bottom_font, 0, $x, $y, $white, $font, $text2, 2, $black);
 
         $he = str_replace(".", "", $extension);
-        header("Content-type: image/$he");
-        imagejpeg($im);
+
+
+        $image_name = rand().".jpg";
+        imagejpeg($im, "saved_memes/" . $image_name);
+        
+        header('Content-type: application/json');
+        $response_array['success'] = $image_name;
+        echo json_encode($response_array);
+//        header("Content-type: image/$he");
+//        imagejpeg($im);
 
         if (!$im){
-            
             return 'index';
         }
     }

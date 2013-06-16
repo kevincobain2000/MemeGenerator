@@ -14,7 +14,7 @@ $config = array(
 
     // db
     // sample-1: single db
-    // 'dsn' => 'mysql://user:password@server/database',
+     'dsn' => 'mysql://root:@127.0.0.1/test',
     //
     // sample-2: single db w/ multiple users
     // 'dsn'   => 'mysql://rw_user:password@server/database', // read-write
@@ -36,20 +36,20 @@ $config = array(
     'log_filter_ignore'     => 'Undefined index.*%%.*tpl',
 
     // sample-2: mulitple facility
-    //'log' => array(
-    //    'echo'  => array(
-    //        'level'         => 'warning',
-    //    ),
-    //    'file'  => array(
-    //        'level'         => 'notice',
-    //        'file'          => '/var/log/memes.log',
-    //        'mode'          => 0666,
-    //    ),
-    //    'alertmail'  => array(
-    //        'level'         => 'err',
-    //        'mailaddress'   => 'alert@ml.example.jp',
-    //    ),
-    //),
+    'log' => array(
+        'echo'  => array(
+            'level'         => 'warning',
+        ),
+        'file'  => array(
+            'level'         => 'notice',
+            'file'          => '../log/memes.log',
+            'mode'          => 0666,
+        ),
+        'alertmail'  => array(
+            'level'         => 'err',
+            'mailaddress'   => 'alert@ml.example.jp',
+        ),
+    ),
     //'log_option'            => 'pid,function,pos',
     //'log_filter_do'         => '',
     //'log_filter_ignore'     => 'Undefined index.*%%.*tpl',

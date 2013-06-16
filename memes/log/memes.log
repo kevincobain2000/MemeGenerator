@@ -1,0 +1,325 @@
+2013/06/15 18:12:04 Memes[51895](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:12:04 Memes[51895](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:13:00 Memes[53712](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:13:00 Memes[53712](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:13:05 Memes[53715](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): asd
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagecolorallocate(/app/action/Index.php:122): [PHP] E_WARNING: imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 122
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagecolorallocate(/app/action/Index.php:123): [PHP] E_WARNING: imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 123
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:84): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 84
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagesy(/app/action/Index.php:146): [PHP] E_WARNING: imagesy() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 146
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagettftext(/app/action/Index.php:84): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 84
+2013/06/15 18:13:05 Memes[53715](WARNING): global.header(/app/action/Index.php:150): [PHP] E_WARNING: Cannot modify header information - headers already sent by (output started at /Users/kevincobain2000/pear/share/pear/Ethna/class/Plugin/Logwriter/Ethna_Plugin_Logwriter_Echo.php:62) in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 150
+2013/06/15 18:13:05 Memes[53715](WARNING): global.imagejpeg(/app/action/Index.php:151): [PHP] E_WARNING: imagejpeg() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 151
+2013/06/15 18:13:32 Memes[53705](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:13:32 Memes[53705](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:14:56 Memes[53715](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:14:56 Memes[53715](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:15:09 Memes[51895](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:15:09 Memes[51895](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:15:17 Memes[53711](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://userserve-ak.last.fm/serve/_/89555215/Asa+fivequestionswith1.jpg
+2013/06/15 18:15:23 Memes[53711](WARNING): global.file_get_contents(/app/action/Index.php:150): [PHP] E_WARNING: file_get_contents() expects parameter 1 to be string, resource given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 150
+2013/06/15 18:15:23 Memes[53711](WARNING): global.file_put_contents(/app/action/Index.php:150): [PHP] E_WARNING: file_put_contents(image.jpg): failed to open stream: Permission denied in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 150
+2013/06/15 18:15:55 Memes[53714](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:15:55 Memes[53714](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:16:03 Memes[53705](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://img.talkandroid.com/uploads/2013/03/wpid-photo-jan-14-2013-1115-am.jpg
+2013/06/15 18:16:04 Memes[53705](WARNING): global.file_put_contents(/app/action/Index.php:150): [PHP] E_WARNING: file_put_contents(): supplied resource is not a valid stream resource in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 150
+2013/06/15 18:16:23 Memes[53716](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:16:23 Memes[53716](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:16:29 Memes[53711](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://img.talkandroid.com/uploads/2013/03/wpid-photo-jan-14-2013-1115-am.jpg
+2013/06/15 18:16:29 Memes[53711](WARNING): global.file_put_contents(/app/action/Index.php:150): [PHP] E_WARNING: file_put_contents(): supplied resource is not a valid stream resource in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 150
+2013/06/15 18:16:46 Memes[53714](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:16:46 Memes[53714](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:16:57 Memes[51895](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://img.talkandroid.com/uploads/2013/03/wpid-photo-jan-14-2013-1115-am.jpg
+2013/06/15 18:16:57 Memes[51895](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): [PHP] E_NOTICE: Undefined variable: img in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 150
+2013/06/15 18:16:57 Memes[51895](WARNING): global.file_put_contents(/app/action/Index.php:151): [PHP] E_WARNING: file_put_contents(): supplied resource is not a valid stream resource in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 151
+2013/06/15 18:17:08 Memes[53713](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://img.talkandroid.com/uploads/2013/03/wpid-photo-jan-14-2013-1115-am.jpg
+2013/06/15 18:17:46 Memes[53711](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:17:46 Memes[53711](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:17:52 Memes[53714](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://img.talkandroid.com/uploads/2013/03/wpid-photo-jan-14-2013-1115-am.jpg
+2013/06/15 18:17:52 Memes[53714](WARNING): global.preg_match(class/Ethna_Logger.php:456): [PHP] E_WARNING: preg_match() expects parameter 2 to be string, resource given in /Users/kevincobain2000/pear/share/pear/Ethna/class/Ethna_Logger.php on line 456
+2013/06/15 18:17:52 Memes[53714](WARNING): global.preg_match(class/Ethna_Logger.php:456): [PHP] E_WARNING: preg_match() expects parameter 2 to be string, resource given in /Users/kevincobain2000/pear/share/pear/Ethna/class/Ethna_Logger.php on line 456
+2013/06/15 18:17:52 Memes[53714](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): Resource id #60
+2013/06/15 18:17:52 Memes[53714](WARNING): global.preg_match(class/Ethna_Logger.php:456): [PHP] E_WARNING: preg_match() expects parameter 2 to be string, resource given in /Users/kevincobain2000/pear/share/pear/Ethna/class/Ethna_Logger.php on line 456
+2013/06/15 18:18:48 Memes[51895](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:18:48 Memes[51895](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:18:56 Memes[53713](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://userserve-ak.last.fm/serve/_/89555215/Asa+fivequestionswith1.jpg
+2013/06/15 18:18:57 Memes[53713](WARNING): global.preg_match(class/Ethna_Logger.php:456): [PHP] E_WARNING: preg_match() expects parameter 2 to be string, resource given in /Users/kevincobain2000/pear/share/pear/Ethna/class/Ethna_Logger.php on line 456
+2013/06/15 18:18:57 Memes[53713](WARNING): global.preg_match(class/Ethna_Logger.php:456): [PHP] E_WARNING: preg_match() expects parameter 2 to be string, resource given in /Users/kevincobain2000/pear/share/pear/Ethna/class/Ethna_Logger.php on line 456
+2013/06/15 18:18:57 Memes[53713](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): Resource id #60
+2013/06/15 18:18:57 Memes[53713](WARNING): global.preg_match(class/Ethna_Logger.php:456): [PHP] E_WARNING: preg_match() expects parameter 2 to be string, resource given in /Users/kevincobain2000/pear/share/pear/Ethna/class/Ethna_Logger.php on line 456
+2013/06/15 18:19:38 Memes[53712](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:19:38 Memes[53712](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:19:42 Memes[53712](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://img.talkandroid.com/uploads/2013/03/wpid-photo-jan-14-2013-1115-am.jpg
+2013/06/15 18:19:42 Memes[53712](WARNING): global.imagejpeg(/app/action/Index.php:154): [PHP] E_WARNING: imagejpeg() expects parameter 1 to be resource, string given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 154
+2013/06/15 18:19:42 Memes[53712](WARNING): global.preg_match(class/Ethna_Logger.php:456): [PHP] E_WARNING: preg_match() expects parameter 2 to be string, resource given in /Users/kevincobain2000/pear/share/pear/Ethna/class/Ethna_Logger.php on line 456
+2013/06/15 18:19:42 Memes[53712](WARNING): global.preg_match(class/Ethna_Logger.php:456): [PHP] E_WARNING: preg_match() expects parameter 2 to be string, resource given in /Users/kevincobain2000/pear/share/pear/Ethna/class/Ethna_Logger.php on line 456
+2013/06/15 18:19:42 Memes[53712](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): Resource id #60
+2013/06/15 18:19:42 Memes[53712](WARNING): global.preg_match(class/Ethna_Logger.php:456): [PHP] E_WARNING: preg_match() expects parameter 2 to be string, resource given in /Users/kevincobain2000/pear/share/pear/Ethna/class/Ethna_Logger.php on line 456
+2013/06/15 18:20:13 Memes[53713](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:20:13 Memes[53713](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:20:20 Memes[53712](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://img.talkandroid.com/uploads/2013/03/wpid-photo-jan-14-2013-1115-am.jpg
+2013/06/15 18:20:20 Memes[53712](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): NOWResource id #60
+2013/06/15 18:21:17 Memes[53710](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:21:17 Memes[53710](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:21:23 Memes[53705](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://img.talkandroid.com/uploads/2013/03/wpid-photo-jan-14-2013-1115-am.jpg
+2013/06/15 18:21:41 Memes[53711](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:21:41 Memes[53711](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:21:46 Memes[53711](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://img.talkandroid.com/uploads/2013/03/wpid-photo-jan-14-2013-1115-am.jpg
+2013/06/15 18:21:46 Memes[53711](WARNING): global.file_put_contents(/app/action/Index.php:152): [PHP] E_WARNING: file_put_contents(): supplied resource is not a valid stream resource in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 152
+2013/06/15 18:23:20 Memes[53712](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:23:20 Memes[53712](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:23:26 Memes[51895](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://img.talkandroid.com/uploads/2013/03/wpid-photo-jan-14-2013-1115-am.jpg
+2013/06/15 18:25:36 Memes[53714](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:25:36 Memes[53714](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:25:43 Memes[53716](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://img.talkandroid.com/uploads/2013/03/wpid-photo-jan-14-2013-1115-am.jpg
+2013/06/15 18:25:43 Memes[53716](WARNING): global.imagejpeg(/app/action/Index.php:153): [PHP] E_WARNING: imagejpeg(): Unable to open 'saved_memes/image.jpg' for writing: Permission denied in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 153
+2013/06/15 18:26:33 Memes[53713](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:26:33 Memes[53713](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:26:40 Memes[51895](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:26:40 Memes[51895](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:26:45 Memes[53710](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://img.talkandroid.com/uploads/2013/03/wpid-photo-jan-14-2013-1115-am.jpg
+2013/06/15 18:26:45 Memes[53710](WARNING): global.imagejpeg(/app/action/Index.php:153): [PHP] E_WARNING: imagejpeg(): Unable to open './saved_memes/image.jpg' for writing: Permission denied in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 153
+2013/06/15 18:27:23 Memes[53711](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:27:23 Memes[53711](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:27:28 Memes[53714](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://img.talkandroid.com/uploads/2013/03/wpid-photo-jan-14-2013-1115-am.jpg
+2013/06/15 18:27:57 Memes[53712](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://userserve-ak.last.fm/serve/_/89555215/Asa+fivequestionswith1.jpg
+2013/06/15 18:28:32 Memes[51895](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:28:32 Memes[51895](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:28:45 Memes[53716](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://postmediawindsorstar.files.wordpress.com/2013/01/cat_shot_by_arrow-1.jpg
+2013/06/15 18:29:14 Memes[53712](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:29:14 Memes[53712](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:29:20 Memes[51895](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/PNG_transparency_demonstration_2.png/280px-PNG_transparency_demonstration_2.png
+2013/06/15 18:29:44 Memes[53715](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:29:44 Memes[53715](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:30:20 Memes[51895](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:30:20 Memes[51895](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:33:23 Memes[53714](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:33:23 Memes[53714](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:33:29 Memes[53713](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://img.talkandroid.com/uploads/2013/03/wpid-photo-jan-14-2013-1115-am.jpg
+2013/06/15 18:33:53 Memes[53710](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:33:53 Memes[53710](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:33:57 Memes[53711](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://img.talkandroid.com/uploads/2013/03/wpid-photo-jan-14-2013-1115-am.jpg
+2013/06/15 18:34:21 Memes[53713](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:34:21 Memes[53713](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:34:29 Memes[53711](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://userserve-ak.last.fm/serve/_/89555215/Asa+fivequestionswith1.jpg
+2013/06/15 18:34:55 Memes[53705](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:34:55 Memes[53705](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:35:01 Memes[53715](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://img.talkandroid.com/uploads/2013/03/wpid-photo-jan-14-2013-1115-am.jpg
+2013/06/15 18:44:55 Memes[53716](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:44:55 Memes[53716](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:45:15 Memes[51895](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:45:15 Memes[51895](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:45:22 Memes[53715](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:45:22 Memes[53715](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:45:33 Memes[53716](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:45:33 Memes[53716](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:45:48 Memes[51895](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:45:48 Memes[51895](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:46:26 Memes[53714](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:46:26 Memes[53714](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:46:33 Memes[53711](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:46:33 Memes[53711](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:46:41 Memes[53705](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:46:41 Memes[53705](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:46:52 Memes[53712](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:46:52 Memes[53712](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:47:01 Memes[53710](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:47:01 Memes[53710](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:47:09 Memes[53714](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:47:09 Memes[53714](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:47:26 Memes[53711](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:47:26 Memes[53711](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:47:46 Memes[53712](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:47:46 Memes[53712](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:47:55 Memes[53715](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:47:55 Memes[53715](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:48:09 Memes[53711](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:48:09 Memes[53711](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:48:22 Memes[53716](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:48:22 Memes[53716](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:48:40 Memes[53713](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:48:40 Memes[53713](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:48:46 Memes[53714](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:48:46 Memes[53714](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:48:53 Memes[53715](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:48:53 Memes[53715](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:50:09 Memes[53711](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:50:09 Memes[53711](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:50:12 Memes[53705](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:50:12 Memes[53705](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:50:20 Memes[53713](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:50:20 Memes[53713](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:50:28 Memes[53711](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:50:28 Memes[53711](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:50:33 Memes[53705](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:50:33 Memes[53705](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:50:35 Memes[53715](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:50:35 Memes[53715](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:50:51 Memes[51895](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:50:51 Memes[51895](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:51:16 Memes[53705](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://postmediawindsorstar.files.wordpress.com/2013/01/cat_shot_by_arrow-1.jpg
+2013/06/15 18:51:40 Memes[53714](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://postmediawindsorstar.files.wordpress.com/2013/01/cat_shot_by_arrow-1.jpg
+2013/06/15 18:51:47 Memes[51895](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:51:47 Memes[51895](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:51:52 Memes[51895](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://postmediawindsorstar.files.wordpress.com/2013/01/cat_shot_by_arrow-1.jpg
+2013/06/15 18:52:09 Memes[53716](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:52:09 Memes[53716](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:52:15 Memes[53712](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://postmediawindsorstar.files.wordpress.com/2013/01/cat_shot_by_arrow-1.jpg
+2013/06/15 18:53:45 Memes[53710](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:53:45 Memes[53710](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:53:54 Memes[53711](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://postmediawindsorstar.files.wordpress.com/2013/01/cat_shot_by_arrow-1.jpg
+2013/06/15 18:54:14 Memes[53714](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://postmediawindsorstar.files.wordpress.com/2013/01/cat_shot_by_arrow-1.jpg
+2013/06/15 18:54:30 Memes[53713](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://postmediawindsorstar.files.wordpress.com/2013/01/cat_shot_by_arrow-1.jpg
+2013/06/15 18:55:04 Memes[51895](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://images.fanpop.com/images/image_uploads/Shuffle-Girl--ipod-697094_236_289.jpg
+2013/06/15 18:55:33 Memes[53715](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://m.cdn.blog.hu/sa/sara-17/image/pink%20ipod%20girl.jpg
+2013/06/15 18:55:54 Memes[53716](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/15 18:55:54 Memes[53716](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/15 18:56:13 Memes[51895](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://m.cdn.blog.hu/sa/sara-17/image/pink%20ipod%20girl.jpg
+2013/06/16 07:55:47 Memes[53712](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 07:55:47 Memes[53712](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 07:56:34 Memes[53716](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 07:56:34 Memes[53716](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 07:56:56 Memes[53715](NOTICE): Memes_Action_Index.perform(class/Ethna_Backend.php:364): http://images6.fanpop.com/image/photos/33400000/Cute-Cats-cats-33440930-1280-800.jpg
+2013/06/16 07:58:29 Memes[53710](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 07:58:29 Memes[53710](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 07:59:06 Memes[53713](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 07:59:06 Memes[53713](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 07:59:11 Memes[53705](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 07:59:11 Memes[53705](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 07:59:17 Memes[53714](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 07:59:17 Memes[53714](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 07:59:59 Memes[53716](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 07:59:59 Memes[53716](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:00:21 Memes[53713](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:00:21 Memes[53713](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:00:31 Memes[53705](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:00:31 Memes[53705](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:00:37 Memes[53711](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:00:37 Memes[53711](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:00:40 Memes[53715](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:00:40 Memes[53715](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:02:19 Memes[53705](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:02:19 Memes[53705](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:04:06 Memes[53716](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:04:06 Memes[53716](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:06:03 Memes[53711](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:06:03 Memes[53711](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:10:10 Memes[53705](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:10:10 Memes[53705](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:10:18 Memes[53712](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:10:18 Memes[53712](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:10:43 Memes[53713](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:10:43 Memes[53713](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:10:51 Memes[53711](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:10:51 Memes[53711](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:11:00 Memes[53714](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:11:00 Memes[53714](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:11:23 Memes[53716](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:11:23 Memes[53716](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:12:12 Memes[53705](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:12:12 Memes[53705](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:12:17 Memes[53715](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:12:17 Memes[53715](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:12:25 Memes[53716](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:12:25 Memes[53716](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:12:47 Memes[51895](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:12:47 Memes[51895](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:12:49 Memes[53716](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:12:49 Memes[53716](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:13:16 Memes[53712](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:13:16 Memes[53712](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:13:17 Memes[51895](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:13:17 Memes[51895](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:14:53 Memes[53705](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:14:53 Memes[53705](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:14:55 Memes[53712](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:14:55 Memes[53712](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:14:59 Memes[53712](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:14:59 Memes[53712](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:15:00 Memes[53712](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:15:00 Memes[53712](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:15:48 Memes[53713](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:15:48 Memes[53713](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:15:51 Memes[51895](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:15:51 Memes[51895](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:15:54 Memes[51895](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:15:54 Memes[51895](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:15:55 Memes[53712](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:15:55 Memes[53712](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:18:29 Memes[53716](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:18:29 Memes[53716](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:18:31 Memes[53716](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:18:31 Memes[53716](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:18:31 Memes[53714](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:18:31 Memes[53714](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:18:46 Memes[53713](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:18:46 Memes[53713](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:18:49 Memes[53705](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:18:49 Memes[53705](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:18:51 Memes[53705](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:18:51 Memes[53705](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:18:51 Memes[53716](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:18:51 Memes[53716](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:19:08 Memes[53712](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:19:08 Memes[53712](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagecolorallocate(/app/action/Index.php:122): [PHP] E_WARNING: imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 122
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagecolorallocate(/app/action/Index.php:123): [PHP] E_WARNING: imagecolorallocate() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 123
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:84): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 84
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagesy(/app/action/Index.php:146): [PHP] E_WARNING: imagesy() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 146
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:77): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 77
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagettftext(/app/action/Index.php:84): [PHP] E_WARNING: imagettftext() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 84
+2013/06/16 08:19:08 Memes[53712](WARNING): global.imagejpeg(/app/action/Index.php:153): [PHP] E_WARNING: imagejpeg() expects parameter 1 to be resource, boolean given in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 153
+2013/06/16 08:19:08 Memes[53712](WARNING): global.header(/app/action/Index.php:155): [PHP] E_WARNING: Cannot modify header information - headers already sent by (output started at /Users/kevincobain2000/pear/share/pear/Ethna/class/Plugin/Logwriter/Ethna_Plugin_Logwriter_Echo.php:62) in /Users/kevincobain2000/MyLibrary/WebServer/Documents/MemeGenerator/memes/app/action/Index.php on line 155
+2013/06/16 08:19:52 Memes[53716](NOTICE): Ethna_Plugin_Validator_Required.validate(class/Ethna_ActionForm.php:692): {form}が入力されていません [ERROR CODE(135)]
+2013/06/16 08:19:52 Memes[53716](NOTICE): Ethna_ActionForm._validateWithPlugin(class/Ethna_ActionForm.php:620): {form} -> [image_search]
