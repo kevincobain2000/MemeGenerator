@@ -1,7 +1,7 @@
 Requirements
 ------------
 
-Install ethna
+Install Ethna
 
 
 On Localhost
